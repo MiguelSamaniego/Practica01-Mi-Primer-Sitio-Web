@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;/* quitamos el subrayado*/
+}
+
+ul{
+    list-style: none; /*quitamos el circulo de la lista*/
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 10px 10px 20px;
+}
+
+nav {
+    background: #FFEA54;
+    border-radius: 10px;
+}
+section{
+    background-color:aqua;
+    float: left;
+}
