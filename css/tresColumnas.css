@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+}
+section{
+  
+    float: left;
+    width: 33%;
+    margin: 0.1%;
+    border-radius: 70px 70px 70px 70px;
+    height: 50px;
+    padding-bottom: 50px;
+}
+
+#izq{
+    
+   background-color: #718EFF;
+}
+
+#cen {
+
+    background-color: #23FDCA;
+}
+
+#der {
+
+    background-color: #9757FF;
+
+}
+h1{color: black;}
+
+p{
+    color: black;
+    text-align: justify ;
+    padding: 15px;
+}
+
+.tresColumnas{
+    border-radius: 10px;
+
+    display: block;
+    margin: auto;
+    max-width: 500px;
+    min-width: 300px;
+    max-height: 800px;
+    min-height: 300px;
+}

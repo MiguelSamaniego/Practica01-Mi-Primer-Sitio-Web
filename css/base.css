@@ -4,9 +4,10 @@
 
 a{
     text-decoration: none;/* quitamos el subrayado*/
+    color:rgb(27%,38%,69%)
 }
 
-ul{
+.menu{
     list-style: none; /*quitamos el circulo de la lista*/
     display: flex;
     justify-content: space-between;
@@ -18,48 +19,28 @@ nav {
     background: #FFEA54;
     border-radius: 10px;
 }
-section{
-    /*
-    background-image: url(../imagenes/fondoUno.png);
-    background-repeat: no-repeat;
-    background-size: 100%;
-
-    */
-    float: left;
-    width: 20%;
-    
-}
 body{
     background-image: url(../imagenes/fondoUno.png);
    /* background-repeat: no-repeat;*/
+   
     background-size: 100%;
 
 }
-.izquierdo{
-    
-   /* background-image: url(../imagenes/fondoUno.png);
-    background-repeat: no-repeat;*/
-    background-size: 100%;
-    border-radius: 10px;
-    width: 65%;
-}
+
 img{
     max-width: 200px;
     max-height: 200px;
 }
 p{
-    width: 100%;
+    color:rgb(71,98,176)
 }
 
-.explicacion{
-    background: #FFEA54;
-    border-radius: 10px;
-    width: 60%;
-    margin-left: 2%;
-    height: 10%;
+h2{
+    color:rgb(27%,38%,69%)
 }
-.nuevos{
-    max-width: 400px;
-    max-height: 500px;
-    border-radius: 10px;
+h1{
+    text-align: center;
+    color: #4762B0;
 }
+
+
