@@ -43,4 +43,22 @@ h1{
     color: #4762B0;
 }
 
+footer {
 
+   /* margin-top: 50%;*/
+    background: #FC540D;
+    background-color: #5E00E6;
+    background-color: #FEBE00;
+    border: 2px solid black;
+    width: 100%;
+    border-radius: 10px;
+    float: right;
+    display: block;
+
+}
+
+footer p{
+    padding: 0.05%;
+  
+
+}
