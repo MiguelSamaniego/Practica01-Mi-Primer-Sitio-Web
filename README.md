@@ -2,16 +2,16 @@
 
 <h1>PRÁCTICA DE LABORATORIO<h1> 
 
-CARRERA: COMPUTACIÓN	ASIGNATURA: PROGRAMACION HIPERMEDIAL
+<p>CARRERA: COMPUTACIÓN	ASIGNATURA: PROGRAMACION HIPERMEDIAL
 NRO. PRÁCTICA:	1	TÍTULO PRÁCTICA:  Mi Primera pagina web
 OBJETIVO ALCANZADO: 
-Realizar una pagina web con html y css
-ACTIVIDADES DESARROLLADAS
+Realizar una pagina web con html y css</p>
+<h2>ACTIVIDADES DESARROLLADAS<h2>
 
 
 
 HTML de menu 
-
+<img src="../capturas/carbon (1).png"/>
  
 HTML de menú que redirecciona 
  
