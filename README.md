@@ -1,6 +1,6 @@
 # Practica01-Mi-Primer-Sitio-Web
 
-PRÁCTICA DE LABORATORIO 
+<h1>PRÁCTICA DE LABORATORIO<h1> 
 
 CARRERA: COMPUTACIÓN	ASIGNATURA: PROGRAMACION HIPERMEDIAL
 NRO. PRÁCTICA:	1	TÍTULO PRÁCTICA:  Mi Primera pagina web
@@ -84,6 +84,6 @@ RECOMENDACIONES:
 Nombre de estudiante:  Miguel Samaniego
 
 
-Firma de estudiante: 
+
  
 
