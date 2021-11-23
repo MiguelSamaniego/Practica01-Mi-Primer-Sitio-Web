@@ -74,10 +74,11 @@ Menú que redirecciona
 
 
 CONCLUSIONES:
-•	Podemos concluir que la forma de hacer una pagina web viene de dos maneras, primero con html y luego se le puede dar forma con CSS, cabe recalcar que solo serán imágenes informativas sin ningún tipo de dinamismo, pero son suficientes para funcionar 
-•	CSS nos permite jugar con la presentación de la pagina pero esto también es posible si se da una estructura adecuada a las etiquetas HTML 
-•	Usar el repositorio de GIT nos ayuda a mantener la pagina en la nube y poder compartir nuestro trabajo con personas en el resto del mundo
-
+<ul>
+<li>Podemos concluir que la forma de hacer una pagina web viene de dos maneras, primero con html y luego se le puede dar forma con CSS, cabe recalcar que solo serán imágenes informativas sin ningún tipo de dinamismo, pero son suficientes para funcionar </li>
+<li>CSS nos permite jugar con la presentación de la pagina pero esto también es posible si se da una estructura adecuada a las etiquetas HTML </li>
+<li>Usar el repositorio de GIT nos ayuda a mantener la pagina en la nube y poder compartir nuestro trabajo con personas en el resto del mundo</li>
+</ul/>
 RECOMENDACIONES:  
 • Usar el programa carbón para sacar capturas de el codigo
 
