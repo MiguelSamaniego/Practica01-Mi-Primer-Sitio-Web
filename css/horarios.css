@@ -4,8 +4,8 @@
 section{
   
     float: left;
-    width: 33%;
-    margin: 0.1%;
+    width: 48%;
+    margin: 0.15%;
     border-radius: 70px 70px 70px 70px;
     padding-bottom: 50px;
 }
@@ -17,7 +17,7 @@ table,th,td{
 }
 
 th,th,td{
-    padding: 15px;
+    padding: 10px;
 }
 
 th{
